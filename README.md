@@ -1,12 +1,47 @@
-# INTRU CG assignments (In progress)
-## Description
+# INTRU CG assignments (Done)
 
-This repository contains the basic files of laboratory and practical work for students of the AIB, of the Baikal school BRICS, INRTU.
-Descriptions of laboratory work are presented directly in the notebook files.
 
-## Content 
-1) [Win 3.11 Screensaver](https://github.com/gruzdev-as/INRTU_CG/blob/master/Win%203.11.%20ScreenSaver%20for%20students.ipynb)
+## Pygame Starfield Simulation
 
-When developing tasks, the following open sources were taken into account:
-1) [MIT](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/)
-2) Watt, Alan. 3D Computer Graphics. Addison-Wesley, 1999. ISBN: 9780201398557.
+A simple starfield animation using Pygame that simulates stars moving through space with dynamic brightness and continuous generation.
+
+### Features
+- Realistic star movement with perspective scaling
+- Stars increase in brightness as they approach
+- Infinite star generation
+- Adjustable speed and number of stars
+
+### Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/pygame-starfield.git
+   cd pygame-starfield
+   ```
+2. Install dependencies:
+   ```sh
+   pip install pygame
+   ```
+
+### Usage
+Run the script to start the animation:
+```sh
+python starfield.py
+```
+
+### Customization
+You can modify the following constants in the script:
+- `number_of_stars`: Adjust the number of stars in the simulation
+- `speed`: Change the speed at which stars move
+
+### Controls
+- Close the window to exit the simulation.
+
+### License
+This project is open-source and available under the MIT License.
+
+### Content 
+Original repozitory:
+https://github.com/gruzdev-as/INRTU_CG/
+
+
+
