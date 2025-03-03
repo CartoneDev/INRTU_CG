@@ -14,12 +14,12 @@ A simple starfield animation using Pygame that simulates stars moving through sp
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/pygame-starfield.git
-   cd pygame-starfield
+   git clone https://github.com/CartoneDev/INRTU_CG.git
+   cd INRTU_CG
    ```
 2. Install dependencies:
    ```sh
-   pip install pygame
+   pip install -r requirements.txt
    ```
 
 ### Usage
